@@ -3,6 +3,14 @@ This GitHub repository is for sharing codes and resources for my second book whi
 ### Here are some games you are about find in the book:
 1. Master of Memorization:
 
+Click the tile to view the number corresponding to it. Destroy tiles by consecutively clicking two tiles with the same number. Use the least clicks to destroy all tiles.
+
 2. New Flappy Bird:
 
+Flappy-Bird inspired game. Click the screen to flap your wings. Watch out for black ravens as you fly across the screen.
+
+![](New_Flappy_Bird_Demo.gif)
+
 3. Eating Coins:
+
+Classic arcade game. Use the arrow keys to navigate and eat all the coins. Watch out for red ghosts that roam the maze.
