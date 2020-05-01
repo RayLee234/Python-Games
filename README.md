@@ -3,7 +3,9 @@ This GitHub repository is for sharing codes and resources for my second book whi
 ### Here are some games you are about find in the book:
 1. Master of Memorization:
 
-Click the tile to view the number corresponding to it. Destroy tiles by consecutively clicking two tiles with the same number. Use the least clicks to destroy all tiles.
+A game testing your memorization. Click the tile to view the number corresponding to it. Destroy tiles by consecutively clicking two tiles with the same number. Use the least clicks to destroy all tiles.
+
+![](Master_of_Memorization_Demo.gif)
 
 2. New Flappy Bird:
 
