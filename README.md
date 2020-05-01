@@ -14,3 +14,5 @@ Flappy-Bird inspired game. Click the screen to flap your wings. Watch out for bl
 3. Eating Coins:
 
 Classic arcade game. Use the arrow keys to navigate and eat all the coins. Watch out for red ghosts that roam the maze.
+
+![](Eating_Coins_Demo.gif)
